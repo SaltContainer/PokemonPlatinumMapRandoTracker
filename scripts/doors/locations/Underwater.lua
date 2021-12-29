@@ -1,0 +1,6 @@
+local underwater_126 = DoorSlot("underwater", "126")
+local underwater_126_hub = DoorSlotHub("underwater", "126", underwater_126)
+underwater_126:setHubIcon(underwater_126_hub)
+local underwater_128 = DoorSlot("underwater", "128")
+local underwater_128_hub = DoorSlotHub("underwater", "128", underwater_128)
+underwater_128:setHubIcon(underwater_128_hub)

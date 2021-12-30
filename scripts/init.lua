@@ -1,5 +1,4 @@
 Tracker:AddItems("items/common.json")
-Tracker:AddItems("items/capture_locations.json")
 Tracker:AddItems("items/maps.json")
 
 Tracker:AddMaps("maps/maps.json")

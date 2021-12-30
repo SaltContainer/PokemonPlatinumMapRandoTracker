@@ -1,325 +1,227 @@
 [
     {
-        "name": "Oldale Town",
-        "codes": "oldale",
+        "name": "Acuity",
+        "codes": "acuity_lakefront",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/oldale.png"
+        "img": "images/maps/acuity_lakefront.png"
     },
 	{
-        "name": "Petalburg City",
-        "codes": "petalburg",
+        "name": "Canalave",
+        "codes": "canalave",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/petalburg.png"
+        "img": "images/maps/canalave.png"
     },
     {
-        "name": "Rustboro City",
-        "codes": "rustboro",
+        "name": "Celestic",
+        "codes": "celestic",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/rustboro.png"
+        "img": "images/maps/celestic.png"
     },
 	{
-        "name": "Dewford Town",
-        "codes": "dewford",
+        "name": "Coronet",
+        "codes": "coronet",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/dewford.png"
+        "img": "images/maps/coronet.png"
     },
 	{
-        "name": "Slateport City",
-        "codes": "slateport",
+        "name": "Coronet Peak",
+        "codes": "coronet_peak",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/slateport.png"
+        "img": "images/maps/coronet_peak.png"
     },
 	{
-        "name": "Mauville City",
-        "codes": "mauville",
+        "name": "Dept. Store",
+        "codes": "dept",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/mauville.png"
+        "img": "images/maps/dept.png"
     },
 	{
-        "name": "Verdanturf Town",
-        "codes": "verdanturf",
+        "name": "Eterna",
+        "codes": "eterna",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/verdanturf.png"
+        "img": "images/maps/eterna.png"
     },
 	{
-        "name": "Lavaridge Town",
-        "codes": "lavaridge",
+        "name": "Eterna Gala.",
+        "codes": "eterna_galactic",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/lavaridge.png"
+        "img": "images/maps/eterna_galactic.png"
     },
 	{
-        "name": "Fallarbor Town",
-        "codes": "fallarbor",
+        "name": "Fight",
+        "codes": "fight_area",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/fallarbor.png"
+        "img": "images/maps/fight_area.png"
     },
 	{
-        "name": "Fortree City",
-        "codes": "fortree",
+        "name": "Floaroma",
+        "codes": "floaroma",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/fortree.png"
+        "img": "images/maps/floaroma.png"
     },
 	{
-        "name": "Lilycove City",
-        "codes": "lilycove",
+        "name": "Forest",
+        "codes": "eterna_forest",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/lilycove.png"
+        "img": "images/maps/eterna_forest.png"
     },
     {
-        "name": "Mossdeep City",
-        "codes": "mossdeep",
+        "name": "Galactic HQ",
+        "codes": "galactic_hq",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/mossdeep.png"
+        "img": "images/maps/galactic_hq.png"
     },
     {
-        "name": "Sootopolis City",
-        "codes": "sootopolis",
+        "name": "Hearthome",
+        "codes": "hearthome",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/sootopolis.png"
+        "img": "images/maps/hearthome.png"
     },
     {
-        "name": "Pacifidlog Town",
-        "codes": "pacifidlog",
+        "name": "Iron Island",
+        "codes": "iron_island",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/pacifidlog.png"
+        "img": "images/maps/iron_island.png"
     },
     {
-        "name": "Ever Grande City",
-        "codes": "ever_grande",
+        "name": "Ironworks",
+        "codes": "fuego_ironworks",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/ever_grande.png"
+        "img": "images/maps/fuego_ironworks.png"
     },
     {
-        "name": "Route 104",
-        "codes": "route_104",
+        "name": "Jubilife",
+        "codes": "jubilife",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_104.png"
+        "img": "images/maps/jubilife.png"
     },
     {
-        "name": "Route 105",
-        "codes": "route_105",
+        "name": "Jubilife TV",
+        "codes": "jubilife_tv",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_105.png"
+        "img": "images/maps/jubilife_tv.png"
     },
     {
-        "name": "Route 106",
-        "codes": "route_106",
+        "name": "League",
+        "codes": "league",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_106.png"
+        "img": "images/maps/league.png"
     },
     {
-        "name": "Route 108",
-        "codes": "route_108",
+        "name": "Mansion",
+        "codes": "mansion",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_108.png"
+        "img": "images/maps/mansion.png"
     },
     {
-        "name": "Route 109",
-        "codes": "route_109",
+        "name": "Meadow",
+        "codes": "floaroma_meadow",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_109.png"
+        "img": "images/maps/floaroma_meadow.png"
     },
     {
-        "name": "Route 110",
-        "codes": "route_110",
+        "name": "Oreburgh",
+        "codes": "oreburgh",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_110.png"
+        "img": "images/maps/oreburgh.png"
     },
     {
-        "name": "Route 111",
-        "codes": "route_111",
+        "name": "Pastoria",
+        "codes": "pastoria",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_111.png"
+        "img": "images/maps/pastoria.png"
     },
     {
-        "name": "Route 112",
-        "codes": "route_112",
+        "name": "Pokétch",
+        "codes": "poketch",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_112.png"
+        "img": "images/maps/poketch.png"
     },
     {
-        "name": "Route 113",
-        "codes": "route_113",
+        "name": "Resort",
+        "codes": "resort_area",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_113.png"
+        "img": "images/maps/resort_area.png"
     },
     {
-        "name": "Route 114",
-        "codes": "route_114",
+        "name": "Ruins",
+        "codes": "solaceon_ruins",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_114.png"
+        "img": "images/maps/solaceon_ruins.png"
     },
     {
-        "name": "Route 115",
-        "codes": "route_115",
+        "name": "Spring Path",
+        "codes": "spring_path",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_115.png"
+        "img": "images/maps/spring_path.png"
     },
     {
-        "name": "Route 116",
-        "codes": "route_116",
+        "name": "Stark",
+        "codes": "stark",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_116.png"
+        "img": "images/maps/stark.png"
     },
     {
-        "name": "Route 117",
-        "codes": "route_117",
+        "name": "Sunyshore",
+        "codes": "sunyshore",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_117.png"
+        "img": "images/maps/sunyshore.png"
     },
     {
-        "name": "Route 119",
-        "codes": "route_119",
+        "name": "Survival",
+        "codes": "survival",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_119.png"
+        "img": "images/maps/survival.png"
     },
     {
-        "name": "Route 120",
-        "codes": "route_120",
+        "name": "Valor",
+        "codes": "valor_lakefront",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_120.png"
+        "img": "images/maps/valor_lakefront.png"
     },
     {
-        "name": "Route 122",
-        "codes": "route_122",
+        "name": "Veilstone",
+        "codes": "veilstone",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_122.png"
+        "img": "images/maps/veilstone.png"
     },
     {
-        "name": "Route 123",
-        "codes": "route_123",
+        "name": "Verity",
+        "codes": "verity_lakefront",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/route_123.png"
-    },
-    {
-        "name": "Route 124",
-        "codes": "route_124",
-		"type": "static",
-        "initial_active_state": true,
-        "img": "images/maps/route_124.png"
-    },
-    {
-        "name": "Aqua Hideout",
-        "codes": "aqua_hideout",
-		"type": "static",
-        "initial_active_state": true,
-        "img": "images/maps/aqua_hideout.png"
-    },
-    {
-        "name": "Granite Cave",
-        "codes": "granite",
-		"type": "static",
-        "initial_active_state": true,
-        "img": "images/maps/granite.png"
-    },
-    {
-        "name": "Jagged Pass",
-        "codes": "jagged_pass",
-		"type": "static",
-        "initial_active_state": true,
-        "img": "images/maps/jagged_pass.png"
-    },
-    {
-        "name": "Magma Hideout",
-        "codes": "magma_hideout",
-		"type": "static",
-        "initial_active_state": true,
-        "img": "images/maps/magma_hideout.png"
-    },
-    {
-        "name": "Meteor Falls",
-        "codes": "meteor_falls",
-		"type": "static",
-        "initial_active_state": true,
-        "img": "images/maps/meteor_falls.png"
-    },
-    {
-        "name": "Mirage Tower",
-        "codes": "mirage_tower",
-		"type": "static",
-        "initial_active_state": true,
-        "img": "images/maps/mirage_tower.png"
-    },
-    {
-        "name": "Navel Rock",
-        "codes": "navel_rock",
-		"type": "static",
-        "initial_active_state": true,
-        "img": "images/maps/navel_rock.png"
-    },
-    {
-        "name": "Petalburg Woods",
-        "codes": "petalburg_woods",
-		"type": "static",
-        "initial_active_state": true,
-        "img": "images/maps/petalburg_woods.png"
-    },
-    {
-        "name": "Mt. Pyre",
-        "codes": "mt_pyre",
-		"type": "static",
-        "initial_active_state": true,
-        "img": "images/maps/pyre.png"
-    },
-    {
-        "name": "Rusturf Tunnel",
-        "codes": "rusturf_tunnel",
-		"type": "static",
-        "initial_active_state": true,
-        "img": "images/maps/rusturf_tunnel.png"
-    },
-    {
-        "name": "Seafloor Cavern",
-        "codes": "seafloor_cavern",
-		"type": "static",
-        "initial_active_state": true,
-        "img": "images/maps/seafloor.png"
-    },
-    {
-        "name": "Abandoned Ship",
-        "codes": "ship",
-		"type": "static",
-        "initial_active_state": true,
-        "img": "images/maps/ship.png"
-    },
-    {
-        "name": "Sky Pillar",
-        "codes": "sky_pillar",
-		"type": "static",
-        "initial_active_state": true,
-        "img": "images/maps/sky_pillar.png"
+        "img": "images/maps/verity_lakefront.png"
     },
     {
         "name": "Victory Road",
@@ -329,10 +231,157 @@
         "img": "images/maps/victory_road.png"
     },
     {
-        "name": "Underwater",
-        "codes": "underwater",
+        "name": "Windworks",
+        "codes": "valley_windworks",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/underwater.png"
+        "img": "images/maps/valley_windworks.png"
+    },
+    {
+        "name": "203",
+        "codes": "route_203",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_203.png"
+    },
+    {
+        "name": "204",
+        "codes": "route_204",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_204.png"
+    },
+    {
+        "name": "205",
+        "codes": "route_205",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_205.png"
+    },
+    {
+        "name": "206",
+        "codes": "route_206",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_206.png"
+    },
+    {
+        "name": "207",
+        "codes": "route_207",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_207.png"
+    },
+    {
+        "name": "208",
+        "codes": "route_208",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_208.png"
+    },
+    {
+        "name": "209",
+        "codes": "route_209",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_209.png"
+    },
+    {
+        "name": "210",
+        "codes": "route_210",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_210.png"
+    },
+    {
+        "name": "211",
+        "codes": "route_211",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_211.png"
+    },
+    {
+        "name": "212",
+        "codes": "route_212",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_212.png"
+    },
+    {
+        "name": "213",
+        "codes": "route_213",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_213.png"
+    },
+    {
+        "name": "214",
+        "codes": "route_214",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_214.png"
+    },
+    {
+        "name": "215",
+        "codes": "route_215",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_215.png"
+    },
+    {
+        "name": "216",
+        "codes": "route_216",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_216.png"
+    },
+    {
+        "name": "217",
+        "codes": "route_217",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_217.png"
+    },
+    {
+        "name": "221",
+        "codes": "route_221",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_221.png"
+    },
+    {
+        "name": "222",
+        "codes": "route_222",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_222.png"
+    },
+    {
+        "name": "225",
+        "codes": "route_225",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_225.png"
+    },
+    {
+        "name": "226",
+        "codes": "route_226",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_226.png"
+    },
+    {
+        "name": "227",
+        "codes": "route_227",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_227.png"
+    },
+    {
+        "name": "228",
+        "codes": "route_228",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/route_228.png"
     }
 ]

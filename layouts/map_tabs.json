@@ -6,332 +6,248 @@
             "width": 1000,
             "tabs": [
                 {
-                    "title": "Abandoned Ship",
+                    "title": "Acuity",
                     "content": {
                         "type": "layout",
-                        "key": "ship"
+                        "key": "acuity_lakefront"
                     }
                 },
                 {
-                    "title": "Aqua Hideout",
+                    "title": "Canalave",
                     "content": {
                         "type": "layout",
-                        "key": "aqua_hideout"
+                        "key": "canalave"
                     }
                 },
                 {
-                    "title": "Dewford Town",
+                    "title": "Celestic",
                     "content": {
                         "type": "layout",
-                        "key": "dewford"
+                        "key": "celestic"
                     }
                 },
                 {
-                    "title": "Ever Grande City",
+                    "title": "Coronet",
                     "content": {
                         "type": "layout",
-                        "key": "ever_grande"
+                        "key": "coronet"
                     }
                 },
                 {
-                    "title": "Fallarbor Town",
+                    "title": "Coronet Peak",
                     "content": {
                         "type": "layout",
-                        "key": "fallarbor"
+                        "key": "coronet_peak"
                     }
                 },
                 {
-                    "title": "Fortree City",
+                    "title": "Dept. Store",
                     "content": {
                         "type": "layout",
-                        "key": "fortree"
+                        "key": "dept"
                     }
                 },
                 {
-                    "title": "Granite Cave",
+                    "title": "Eterna",
                     "content": {
                         "type": "layout",
-                        "key": "granite"
+                        "key": "eterna"
                     }
                 },
                 {
-                    "title": "Jagged Pass",
+                    "title": "Eterna Gala.",
                     "content": {
                         "type": "layout",
-                        "key": "jagged_pass"
+                        "key": "eterna_galactic"
                     }
                 },
                 {
-                    "title": "Lavaridge Town",
+                    "title": "Fight",
                     "content": {
                         "type": "layout",
-                        "key": "lavaridge"
+                        "key": "fight_area"
                     }
                 },
                 {
-                    "title": "Lilycove City",
+                    "title": "Floaroma",
                     "content": {
                         "type": "layout",
-                        "key": "lilycove"
+                        "key": "floaroma"
                     }
                 },
                 {
-                    "title": "Magma Hideout",
+                    "title": "Forest",
                     "content": {
                         "type": "layout",
-                        "key": "magma_hideout"
+                        "key": "eterna_forest"
                     }
                 },
                 {
-                    "title": "Mauville City",
+                    "title": "Galactic HQ",
                     "content": {
                         "type": "layout",
-                        "key": "mauville"
+                        "key": "galactic_hq"
                     }
                 },
                 {
-                    "title": "Meteor Falls",
+                    "title": "Hearthome",
                     "content": {
                         "type": "layout",
-                        "key": "meteor_falls"
+                        "key": "hearthome"
                     }
                 },
                 {
-                    "title": "Mirage Tower",
+                    "title": "Iron Island",
                     "content": {
                         "type": "layout",
-                        "key": "mirage_tower"
+                        "key": "iron_island"
                     }
                 },
                 {
-                    "title": "Mossdeep City",
+                    "title": "Ironworks",
                     "content": {
                         "type": "layout",
-                        "key": "mossdeep"
+                        "key": "fuego_ironworks"
                     }
                 },
                 {
-                    "title": "Mt. Pyre",
+                    "title": "Jubilife",
                     "content": {
                         "type": "layout",
-                        "key": "mt_pyre"
+                        "key": "jubilife"
                     }
                 },
                 {
-                    "title": "Navel Rock",
+                    "title": "Jubilife TV",
                     "content": {
                         "type": "layout",
-                        "key": "navel_rock"
+                        "key": "jubilife_tv"
                     }
                 },
                 {
-                    "title": "Oldale Town",
+                    "title": "League",
                     "content": {
                         "type": "layout",
-                        "key": "oldale"
+                        "key": "league"
                     }
                 },
                 {
-                    "title": "Pacifidlog Town",
+                    "title": "Mansion",
                     "content": {
                         "type": "layout",
-                        "key": "pacifidlog"
+                        "key": "mansion"
                     }
                 },
                 {
-                    "title": "Petalburg City",
+                    "title": "Meadow",
                     "content": {
                         "type": "layout",
-                        "key": "petalburg"
+                        "key": "floaroma_meadow"
                     }
                 },
                 {
-                    "title": "Petalburg Woods",
+                    "title": "Oreburgh",
                     "content": {
                         "type": "layout",
-                        "key": "petalburg_woods"
+                        "key": "oreburgh"
                     }
                 },
                 {
-                    "title": "Route 104",
+                    "title": "Pastoria",
                     "content": {
                         "type": "layout",
-                        "key": "route_104"
+                        "key": "pastoria"
                     }
                 },
                 {
-                    "title": "Route 105",
+                    "title": "Pokétch",
                     "content": {
                         "type": "layout",
-                        "key": "route_105"
+                        "key": "poketch"
                     }
                 },
                 {
-                    "title": "Route 106",
+                    "title": "Resort",
                     "content": {
                         "type": "layout",
-                        "key": "route_106"
+                        "key": "resort_area"
                     }
                 },
                 {
-                    "title": "Route 108",
+                    "title": "ruins",
                     "content": {
                         "type": "layout",
-                        "key": "route_108"
+                        "key": "solaceon_ruins"
                     }
                 },
                 {
-                    "title": "Route 109",
+                    "title": "Sandgem",
                     "content": {
                         "type": "layout",
-                        "key": "route_109"
+                        "key": "sandgem"
                     }
                 },
                 {
-                    "title": "Route 110",
+                    "title": "Snowpoint",
                     "content": {
                         "type": "layout",
-                        "key": "route_110"
+                        "key": "snowpoint"
                     }
                 },
                 {
-                    "title": "Route 111",
+                    "title": "Solaceon",
                     "content": {
                         "type": "layout",
-                        "key": "route_111"
+                        "key": "solaceon"
                     }
                 },
                 {
-                    "title": "Route 112",
+                    "title": "Spring Path",
                     "content": {
                         "type": "layout",
-                        "key": "route_112"
+                        "key": "spring_path"
                     }
                 },
                 {
-                    "title": "Route 113",
+                    "title": "Stark",
                     "content": {
                         "type": "layout",
-                        "key": "route_113"
+                        "key": "stark"
                     }
                 },
                 {
-                    "title": "Route 114",
+                    "title": "Sunyshore",
                     "content": {
                         "type": "layout",
-                        "key": "route_114"
+                        "key": "sunyshore"
                     }
                 },
                 {
-                    "title": "Route 115",
+                    "title": "Survival",
                     "content": {
                         "type": "layout",
-                        "key": "route_115"
+                        "key": "survival_area"
                     }
                 },
                 {
-                    "title": "Route 116",
+                    "title": "Valor",
                     "content": {
                         "type": "layout",
-                        "key": "route_116"
+                        "key": "valor_lakefront"
                     }
                 },
                 {
-                    "title": "Route 117",
+                    "title": "Veilstone",
                     "content": {
                         "type": "layout",
-                        "key": "route_117"
+                        "key": "veilstone"
                     }
                 },
                 {
-                    "title": "Route 119",
+                    "title": "Verity",
                     "content": {
                         "type": "layout",
-                        "key": "route_119"
-                    }
-                },
-                {
-                    "title": "Route 120",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_120"
-                    }
-                },
-                {
-                    "title": "Route 122",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_122"
-                    }
-                },
-                {
-                    "title": "Route 123",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_123"
-                    }
-                },
-                {
-                    "title": "Route 124",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_124"
-                    }
-                },
-                {
-                    "title": "Rustboro City",
-                    "content": {
-                        "type": "layout",
-                        "key": "rustboro"
-                    }
-                },
-                {
-                    "title": "Rusturf Tunnel",
-                    "content": {
-                        "type": "layout",
-                        "key": "rusturf_tunnel"
-                    }
-                },
-                {
-                    "title": "Seafloor Cavern",
-                    "content": {
-                        "type": "layout",
-                        "key": "seafloor_cavern"
-                    }
-                },
-                {
-                    "title": "Sky Pillar",
-                    "content": {
-                        "type": "layout",
-                        "key": "sky_pillar"
-                    }
-                },
-                {
-                    "title": "Slateport City",
-                    "content": {
-                        "type": "layout",
-                        "key": "slateport"
-                    }
-                },
-                {
-                    "title": "Sootopolis City",
-                    "content": {
-                        "type": "layout",
-                        "key": "sootopolis"
-                    }
-                },
-                {
-                    "title": "Underwater",
-                    "content": {
-                        "type": "layout",
-                        "key": "underwater"
-                    }
-                },
-                {
-                    "title": "Verdanturf Town",
-                    "content": {
-                        "type": "layout",
-                        "key": "verdanturf"
+                        "key": "verity_lakefront"
                     }
                 },
                 {
@@ -339,6 +255,160 @@
                     "content": {
                         "type": "layout",
                         "key": "victory_road"
+                    }
+                },
+                {
+                    "title": "Windworks",
+                    "content": {
+                        "type": "layout",
+                        "key": "valley_windworks"
+                    }
+                },
+                {
+                    "title": "203",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_203"
+                    }
+                },
+                {
+                    "title": "204",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_204"
+                    }
+                },
+                {
+                    "title": "205",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_205"
+                    }
+                },
+                {
+                    "title": "206",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_206"
+                    }
+                },
+                {
+                    "title": "207",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_207"
+                    }
+                },
+                {
+                    "title": "208",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_208"
+                    }
+                },
+                {
+                    "title": "209",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_209"
+                    }
+                },
+                {
+                    "title": "210",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_210"
+                    }
+                },
+                {
+                    "title": "211",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_211"
+                    }
+                },
+                {
+                    "title": "212",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_212"
+                    }
+                },
+                {
+                    "title": "213",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_213"
+                    }
+                },
+                {
+                    "title": "214",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_214"
+                    }
+                },
+                {
+                    "title": "215",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_215"
+                    }
+                },
+                {
+                    "title": "216",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_216"
+                    }
+                },
+                {
+                    "title": "217",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_217"
+                    }
+                },
+                {
+                    "title": "221",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_221"
+                    }
+                },
+                {
+                    "title": "222",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_222"
+                    }
+                },
+                {
+                    "title": "225",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_225"
+                    }
+                },
+                {
+                    "title": "226",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_226"
+                    }
+                },
+                {
+                    "title": "227",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_227"
+                    }
+                },
+                {
+                    "title": "228",
+                    "content": {
+                        "type": "layout",
+                        "key": "route_228"
                     }
                 }
             ]

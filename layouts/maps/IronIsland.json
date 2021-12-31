@@ -1,0 +1,237 @@
+{
+	"iron_island": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_iron_island_0",
+						"canvas_left": 17,
+						"canvas_top": 80,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_iron_island_0",
+						"canvas_left": -36,
+						"canvas_top": 80,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_iron_island_1",
+						"canvas_left": 137,
+						"canvas_top": 164,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_iron_island_1",
+						"canvas_left": 84,
+						"canvas_top": 164,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_iron_island_2",
+						"canvas_left": 215,
+						"canvas_top": 33,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_iron_island_2",
+						"canvas_left": 162,
+						"canvas_top": 33,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_iron_island_3",
+						"canvas_left": 346,
+						"canvas_top": 22,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_iron_island_3",
+						"canvas_left": 293,
+						"canvas_top": 22,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_iron_island_4",
+						"canvas_left": 458,
+						"canvas_top": 24,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_iron_island_4",
+						"canvas_left": 405,
+						"canvas_top": 24,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_iron_island_5",
+						"canvas_left": 401,
+						"canvas_top": 98,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_iron_island_5",
+						"canvas_left": 348,
+						"canvas_top": 98,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_iron_island_6",
+						"canvas_left": 320,
+						"canvas_top": 196,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_iron_island_6",
+						"canvas_left": 267,
+						"canvas_top": 196,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_iron_island_7",
+						"canvas_left": 528,
+						"canvas_top": 145,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_iron_island_7",
+						"canvas_left": 475,
+						"canvas_top": 145,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_iron_island_8",
+						"canvas_left": 544,
+						"canvas_top": 394,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_iron_island_8",
+						"canvas_left": 491,
+						"canvas_top": 394,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_iron_island_9",
+						"canvas_left": 633,
+						"canvas_top": 12,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_iron_island_9",
+						"canvas_left": 580,
+						"canvas_top": 12,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_iron_island_10",
+						"canvas_left": 697,
+						"canvas_top": 377,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_iron_island_10",
+						"canvas_left": 644,
+						"canvas_top": 377,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_iron_island_11",
+						"canvas_left": 902,
+						"canvas_top": 377,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_iron_island_11",
+						"canvas_left": 849,
+						"canvas_top": 377,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "iron_island",
+						"canvas_left": 0,
+						"canvas_top": 0,
+						"width": 1000,
+						"height": 468,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

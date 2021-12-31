@@ -1,0 +1,255 @@
+{
+	"jubilife": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_jubilife_0",
+						"canvas_left": 106,
+						"canvas_top": 174,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_0",
+						"canvas_left": 53,
+						"canvas_top": 174,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_1",
+						"canvas_left": 252,
+						"canvas_top": 83,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_1",
+						"canvas_left": 199,
+						"canvas_top": 83,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_2",
+						"canvas_left": 304,
+						"canvas_top": 123,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_2",
+						"canvas_left": 251,
+						"canvas_top": 123,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_3",
+						"canvas_left": 530,
+						"canvas_top": 90,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_3",
+						"canvas_left": 477,
+						"canvas_top": 90,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_4",
+						"canvas_left": 723,
+						"canvas_top": 138,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_4",
+						"canvas_left": 670,
+						"canvas_top": 138,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_5",
+						"canvas_left": 715,
+						"canvas_top": 241,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_5",
+						"canvas_left": 662,
+						"canvas_top": 241,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_6",
+						"canvas_left": 724,
+						"canvas_top": 332,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_6",
+						"canvas_left": 671,
+						"canvas_top": 332,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_7",
+						"canvas_left": 564,
+						"canvas_top": 443,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_7",
+						"canvas_left": 511,
+						"canvas_top": 443,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_8",
+						"canvas_left": 239,
+						"canvas_top": 441,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_8",
+						"canvas_left": 186,
+						"canvas_top": 441,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_9",
+						"canvas_left": 351,
+						"canvas_top": 347,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_9",
+						"canvas_left": 298,
+						"canvas_top": 347,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_10",
+						"canvas_left": 672,
+						"canvas_top": 520,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_10",
+						"canvas_left": 619,
+						"canvas_top": 520,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_11",
+						"canvas_left": 768,
+						"canvas_top": 568,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_11",
+						"canvas_left": 715,
+						"canvas_top": 568,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_12",
+						"canvas_left": 856,
+						"canvas_top": 517,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_12",
+						"canvas_left": 803,
+						"canvas_top": 517,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "jubilife",
+						"canvas_left": 103,
+						"canvas_top": 0,
+						"width": 793,
+						"height": 599,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

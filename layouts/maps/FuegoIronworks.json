@@ -1,0 +1,57 @@
+{
+	"fuego_ironworks": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_fuego_ironworks_0",
+						"canvas_left": 383,
+						"canvas_top": 132,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fuego_ironworks_0",
+						"canvas_left": 330,
+						"canvas_top": 132,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_fuego_ironworks_1",
+						"canvas_left": 565,
+						"canvas_top": 450,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fuego_ironworks_1",
+						"canvas_left": 512,
+						"canvas_top": 450,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "fuego_ironworks",
+						"canvas_left": 244,
+						"canvas_top": 0,
+						"width": 512,
+						"height": 596,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

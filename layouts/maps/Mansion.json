@@ -1,0 +1,129 @@
+{
+	"mansion": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_mansion_0",
+						"canvas_left": 107,
+						"canvas_top": 34,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mansion_0",
+						"canvas_left": 54,
+						"canvas_top": 34,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mansion_1",
+						"canvas_left": 234,
+						"canvas_top": 63,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mansion_1",
+						"canvas_left": 181,
+						"canvas_top": 63,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mansion_2",
+						"canvas_left": 363,
+						"canvas_top": 36,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mansion_2",
+						"canvas_left": 310,
+						"canvas_top": 36,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mansion_3",
+						"canvas_left": 556,
+						"canvas_top": -2,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mansion_3",
+						"canvas_left": 503,
+						"canvas_top": -2,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mansion_4",
+						"canvas_left": 551,
+						"canvas_top": 188,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mansion_4",
+						"canvas_left": 498,
+						"canvas_top": 188,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_mansion_5",
+						"canvas_left": 792,
+						"canvas_top": 35,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_mansion_5",
+						"canvas_left": 739,
+						"canvas_top": 35,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "mansion",
+						"canvas_left": 37,
+						"canvas_top": 0,
+						"width": 926,
+						"height": 229,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

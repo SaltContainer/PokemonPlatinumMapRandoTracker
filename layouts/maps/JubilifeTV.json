@@ -1,0 +1,201 @@
+{
+	"jubilife_tv": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_jubilife_tv_0",
+						"canvas_left": 286,
+						"canvas_top": 438,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_tv_0",
+						"canvas_left": 233,
+						"canvas_top": 438,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_tv_1",
+						"canvas_left": 351,
+						"canvas_top": 240,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_tv_1",
+						"canvas_left": 298,
+						"canvas_top": 240,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_tv_2",
+						"canvas_left": 191,
+						"canvas_top": -8,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_tv_2",
+						"canvas_left": 138,
+						"canvas_top": -8,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_tv_3",
+						"canvas_left": 260,
+						"canvas_top": 42,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_tv_3",
+						"canvas_left": 207,
+						"canvas_top": 42,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_tv_4",
+						"canvas_left": 352,
+						"canvas_top": -3,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_tv_4",
+						"canvas_left": 299,
+						"canvas_top": -3,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_tv_5",
+						"canvas_left": 612,
+						"canvas_top": 35,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_tv_5",
+						"canvas_left": 559,
+						"canvas_top": 35,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_tv_6",
+						"canvas_left": 519,
+						"canvas_top": 285,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_tv_6",
+						"canvas_left": 466,
+						"canvas_top": 285,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_tv_7",
+						"canvas_left": 569,
+						"canvas_top": 248,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_tv_7",
+						"canvas_left": 516,
+						"canvas_top": 248,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_tv_8",
+						"canvas_left": 623,
+						"canvas_top": 301,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_tv_8",
+						"canvas_left": 570,
+						"canvas_top": 301,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_jubilife_tv_9",
+						"canvas_left": 697,
+						"canvas_top": 255,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_jubilife_tv_9",
+						"canvas_left": 644,
+						"canvas_top": 255,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "jubilife_tv",
+						"canvas_left": 163,
+						"canvas_top": 0,
+						"width": 674,
+						"height": 475,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,147 @@
+{
+	"sandgem": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_sandgem_0",
+						"canvas_left": 456,
+						"canvas_top": 96,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sandgem_0",
+						"canvas_left": 403,
+						"canvas_top": 96,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sandgem_1",
+						"canvas_left": 622,
+						"canvas_top": 96,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sandgem_1",
+						"canvas_left": 569,
+						"canvas_top": 96,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sandgem_2",
+						"canvas_left": 300,
+						"canvas_top": 245,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sandgem_2",
+						"canvas_left": 247,
+						"canvas_top": 245,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sandgem_3",
+						"canvas_left": 453,
+						"canvas_top": 243,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sandgem_3",
+						"canvas_left": 400,
+						"canvas_top": 243,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sandgem_4",
+						"canvas_left": 575,
+						"canvas_top": 326,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sandgem_4",
+						"canvas_left": 522,
+						"canvas_top": 326,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sandgem_5",
+						"canvas_left": 671,
+						"canvas_top": 381,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sandgem_5",
+						"canvas_left": 618,
+						"canvas_top": 381,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sandgem_6",
+						"canvas_left": 758,
+						"canvas_top": 325,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sandgem_6",
+						"canvas_left": 705,
+						"canvas_top": 325,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "sandgem",
+						"canvas_left": 200,
+						"canvas_top": 0,
+						"width": 600,
+						"height": 402,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

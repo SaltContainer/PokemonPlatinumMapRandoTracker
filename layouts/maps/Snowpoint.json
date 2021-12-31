@@ -1,0 +1,183 @@
+{
+	"snowpoint": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_snowpoint_0",
+						"canvas_left": 210,
+						"canvas_top": 214,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_snowpoint_0",
+						"canvas_left": 157,
+						"canvas_top": 214,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_snowpoint_1",
+						"canvas_left": 209,
+						"canvas_top": 517,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_snowpoint_1",
+						"canvas_left": 156,
+						"canvas_top": 517,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_snowpoint_2",
+						"canvas_left": 425,
+						"canvas_top": 387,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_snowpoint_2",
+						"canvas_left": 372,
+						"canvas_top": 387,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_snowpoint_3",
+						"canvas_left": 418,
+						"canvas_top": 66,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_snowpoint_3",
+						"canvas_left": 365,
+						"canvas_top": 66,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_snowpoint_4",
+						"canvas_left": 624,
+						"canvas_top": 222,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_snowpoint_4",
+						"canvas_left": 571,
+						"canvas_top": 222,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_snowpoint_5",
+						"canvas_left": 619,
+						"canvas_top": 526,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_snowpoint_5",
+						"canvas_left": 566,
+						"canvas_top": 526,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_snowpoint_6",
+						"canvas_left": 577,
+						"canvas_top": 406,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_snowpoint_6",
+						"canvas_left": 524,
+						"canvas_top": 406,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_snowpoint_7",
+						"canvas_left": 675,
+						"canvas_top": 464,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_snowpoint_7",
+						"canvas_left": 622,
+						"canvas_top": 464,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_snowpoint_8",
+						"canvas_left": 768,
+						"canvas_top": 409,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_snowpoint_8",
+						"canvas_left": 715,
+						"canvas_top": 409,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "snowpoint",
+						"canvas_left": 197,
+						"canvas_top": 0,
+						"width": 606,
+						"height": 634,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,255 @@
+{
+	"canalave": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_canalave_0",
+						"canvas_left": 245,
+						"canvas_top": 76,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_canalave_0",
+						"canvas_left": 192,
+						"canvas_top": 76,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_canalave_1",
+						"canvas_left": 270,
+						"canvas_top": 198,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_canalave_1",
+						"canvas_left": 217,
+						"canvas_top": 198,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_canalave_2",
+						"canvas_left": 264,
+						"canvas_top": 286,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_canalave_2",
+						"canvas_left": 211,
+						"canvas_top": 286,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_canalave_3",
+						"canvas_left": 276,
+						"canvas_top": 365,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_canalave_3",
+						"canvas_left": 223,
+						"canvas_top": 365,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_canalave_4",
+						"canvas_left": 512,
+						"canvas_top": 27,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_canalave_4",
+						"canvas_left": 459,
+						"canvas_top": 27,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_canalave_5",
+						"canvas_left": 505,
+						"canvas_top": 112,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_canalave_5",
+						"canvas_left": 452,
+						"canvas_top": 112,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_canalave_6",
+						"canvas_left": 446,
+						"canvas_top": 208,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_canalave_6",
+						"canvas_left": 393,
+						"canvas_top": 208,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_canalave_7",
+						"canvas_left": 448,
+						"canvas_top": 288,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_canalave_7",
+						"canvas_left": 395,
+						"canvas_top": 288,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_canalave_8",
+						"canvas_left": 461,
+						"canvas_top": 363,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_canalave_8",
+						"canvas_left": 408,
+						"canvas_top": 363,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_canalave_9",
+						"canvas_left": 657,
+						"canvas_top": 512,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_canalave_9",
+						"canvas_left": 604,
+						"canvas_top": 512,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_canalave_10",
+						"canvas_left": 588,
+						"canvas_top": 335,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_canalave_10",
+						"canvas_left": 535,
+						"canvas_top": 335,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_canalave_11",
+						"canvas_left": 683,
+						"canvas_top": 389,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_canalave_11",
+						"canvas_left": 630,
+						"canvas_top": 389,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_canalave_12",
+						"canvas_left": 773,
+						"canvas_top": 337,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_canalave_12",
+						"canvas_left": 720,
+						"canvas_top": 337,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "canalave",
+						"canvas_left": 188,
+						"canvas_top": 0,
+						"width": 624,
+						"height": 600,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

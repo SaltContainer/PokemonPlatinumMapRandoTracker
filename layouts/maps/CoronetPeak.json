@@ -1,0 +1,129 @@
+{
+	"coronet_peak": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_coronet_peak_0",
+						"canvas_left": 265,
+						"canvas_top": 412,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_coronet_peak_0",
+						"canvas_left": 212,
+						"canvas_top": 412,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_coronet_peak_1",
+						"canvas_left": 277,
+						"canvas_top": 628,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_coronet_peak_1",
+						"canvas_left": 224,
+						"canvas_top": 628,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_coronet_peak_2",
+						"canvas_left": 627,
+						"canvas_top": 431,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_coronet_peak_2",
+						"canvas_left": 574,
+						"canvas_top": 431,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_coronet_peak_3",
+						"canvas_left": 647,
+						"canvas_top": 251,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_coronet_peak_3",
+						"canvas_left": 594,
+						"canvas_top": 251,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_coronet_peak_4",
+						"canvas_left": 723,
+						"canvas_top": 144,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_coronet_peak_4",
+						"canvas_left": 670,
+						"canvas_top": 144,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_coronet_peak_5",
+						"canvas_left": 303,
+						"canvas_top": 37,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_coronet_peak_5",
+						"canvas_left": 250,
+						"canvas_top": 37,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "coronet_peak",
+						"canvas_left": 200,
+						"canvas_top": 0,
+						"width": 599,
+						"height": 711,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

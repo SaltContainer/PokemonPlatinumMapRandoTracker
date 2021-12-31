@@ -1,0 +1,39 @@
+{
+	"route_207": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_route_207_0",
+						"canvas_left": 510,
+						"canvas_top": 77,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_route_207_0",
+						"canvas_left": 457,
+						"canvas_top": 77,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "route_207",
+						"canvas_left": 377,
+						"canvas_top": 0,
+						"width": 246,
+						"height": 215,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

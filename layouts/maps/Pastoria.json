@@ -1,0 +1,255 @@
+{
+	"pastoria": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_pastoria_0",
+						"canvas_left": 173,
+						"canvas_top": 331,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pastoria_0",
+						"canvas_left": 120,
+						"canvas_top": 331,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pastoria_1",
+						"canvas_left": 178,
+						"canvas_top": 545,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pastoria_1",
+						"canvas_left": 125,
+						"canvas_top": 545,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pastoria_2",
+						"canvas_left": 377,
+						"canvas_top": 550,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pastoria_2",
+						"canvas_left": 324,
+						"canvas_top": 550,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pastoria_3",
+						"canvas_left": 373,
+						"canvas_top": 434,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pastoria_3",
+						"canvas_left": 320,
+						"canvas_top": 434,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pastoria_4",
+						"canvas_left": 354,
+						"canvas_top": 298,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pastoria_4",
+						"canvas_left": 301,
+						"canvas_top": 298,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pastoria_5",
+						"canvas_left": 351,
+						"canvas_top": 180,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pastoria_5",
+						"canvas_left": 298,
+						"canvas_top": 180,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pastoria_6",
+						"canvas_left": 535,
+						"canvas_top": 436,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pastoria_6",
+						"canvas_left": 482,
+						"canvas_top": 436,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pastoria_7",
+						"canvas_left": 744,
+						"canvas_top": 236,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pastoria_7",
+						"canvas_left": 691,
+						"canvas_top": 236,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pastoria_8",
+						"canvas_left": 519,
+						"canvas_top": 109,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pastoria_8",
+						"canvas_left": 466,
+						"canvas_top": 109,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pastoria_9",
+						"canvas_left": 947,
+						"canvas_top": 152,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pastoria_9",
+						"canvas_left": 894,
+						"canvas_top": 152,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pastoria_10",
+						"canvas_left": 643,
+						"canvas_top": 605,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pastoria_10",
+						"canvas_left": 590,
+						"canvas_top": 605,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pastoria_11",
+						"canvas_left": 737,
+						"canvas_top": 653,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pastoria_11",
+						"canvas_left": 684,
+						"canvas_top": 653,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_pastoria_12",
+						"canvas_left": 825,
+						"canvas_top": 607,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_pastoria_12",
+						"canvas_left": 772,
+						"canvas_top": 607,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "pastoria",
+						"canvas_left": 0,
+						"canvas_top": 0,
+						"width": 1000,
+						"height": 684,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"verity_lakefront": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_verity_lakefront_0",
+						"canvas_left": 473,
+						"canvas_top": 47,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_verity_lakefront_0",
+						"canvas_left": 420,
+						"canvas_top": 47,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "verity_lakefront",
+						"canvas_left": 365,
+						"canvas_top": 0,
+						"width": 270,
+						"height": 154,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

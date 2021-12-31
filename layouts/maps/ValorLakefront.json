@@ -1,0 +1,165 @@
+{
+	"valor_lakefront": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_valor_lakefront_0",
+						"canvas_left": 223,
+						"canvas_top": 305,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_valor_lakefront_0",
+						"canvas_left": 170,
+						"canvas_top": 305,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_valor_lakefront_1",
+						"canvas_left": 474,
+						"canvas_top": 320,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_valor_lakefront_1",
+						"canvas_left": 421,
+						"canvas_top": 320,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_valor_lakefront_2",
+						"canvas_left": 617,
+						"canvas_top": 226,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_valor_lakefront_2",
+						"canvas_left": 564,
+						"canvas_top": 226,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_valor_lakefront_3",
+						"canvas_left": 645,
+						"canvas_top": 9,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_valor_lakefront_3",
+						"canvas_left": 592,
+						"canvas_top": 9,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_valor_lakefront_4",
+						"canvas_left": 393,
+						"canvas_top": 522,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_valor_lakefront_4",
+						"canvas_left": 340,
+						"canvas_top": 522,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_valor_lakefront_5",
+						"canvas_left": 574,
+						"canvas_top": 523,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_valor_lakefront_5",
+						"canvas_left": 521,
+						"canvas_top": 523,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_valor_lakefront_6",
+						"canvas_left": 541,
+						"canvas_top": 591,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_valor_lakefront_6",
+						"canvas_left": 488,
+						"canvas_top": 591,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_valor_lakefront_7",
+						"canvas_left": 468,
+						"canvas_top": 658,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_valor_lakefront_7",
+						"canvas_left": 415,
+						"canvas_top": 658,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "valor_lakefront",
+						"canvas_left": 165,
+						"canvas_top": 0,
+						"width": 669,
+						"height": 708,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,57 @@
+{
+	"route_214": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_route_214_0",
+						"canvas_left": 480,
+						"canvas_top": 19,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_route_214_0",
+						"canvas_left": 427,
+						"canvas_top": 19,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_route_214_1",
+						"canvas_left": 413,
+						"canvas_top": 161,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_route_214_1",
+						"canvas_left": 360,
+						"canvas_top": 161,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "route_214",
+						"canvas_left": 387,
+						"canvas_top": 0,
+						"width": 225,
+						"height": 258,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

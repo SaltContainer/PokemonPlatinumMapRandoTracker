@@ -1,0 +1,165 @@
+{
+	"fight_area": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_fight_area_0",
+						"canvas_left": 224,
+						"canvas_top": 54,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fight_area_0",
+						"canvas_left": 171,
+						"canvas_top": 54,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_fight_area_1",
+						"canvas_left": 230,
+						"canvas_top": 352,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fight_area_1",
+						"canvas_left": 177,
+						"canvas_top": 352,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_fight_area_2",
+						"canvas_left": 321,
+						"canvas_top": 402,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fight_area_2",
+						"canvas_left": 268,
+						"canvas_top": 402,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_fight_area_3",
+						"canvas_left": 412,
+						"canvas_top": 354,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fight_area_3",
+						"canvas_left": 359,
+						"canvas_top": 354,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_fight_area_4",
+						"canvas_left": 491,
+						"canvas_top": 113,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fight_area_4",
+						"canvas_left": 438,
+						"canvas_top": 113,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_fight_area_5",
+						"canvas_left": 708,
+						"canvas_top": 119,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fight_area_5",
+						"canvas_left": 655,
+						"canvas_top": 119,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_fight_area_6",
+						"canvas_left": 607,
+						"canvas_top": 229,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fight_area_6",
+						"canvas_left": 554,
+						"canvas_top": 229,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_fight_area_7",
+						"canvas_left": 606,
+						"canvas_top": 302,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_fight_area_7",
+						"canvas_left": 553,
+						"canvas_top": 302,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "fight_area",
+						"canvas_left": 194,
+						"canvas_top": 0,
+						"width": 611,
+						"height": 428,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

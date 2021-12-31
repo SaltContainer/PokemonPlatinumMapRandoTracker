@@ -1,0 +1,183 @@
+{
+	"celestic": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_celestic_0",
+						"canvas_left": 153,
+						"canvas_top": 66,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celestic_0",
+						"canvas_left": 100,
+						"canvas_top": 66,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celestic_1",
+						"canvas_left": 357,
+						"canvas_top": 53,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celestic_1",
+						"canvas_left": 304,
+						"canvas_top": 53,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celestic_2",
+						"canvas_left": 522,
+						"canvas_top": 58,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celestic_2",
+						"canvas_left": 469,
+						"canvas_top": 58,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celestic_3",
+						"canvas_left": 354,
+						"canvas_top": 165,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celestic_3",
+						"canvas_left": 301,
+						"canvas_top": 165,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celestic_4",
+						"canvas_left": 220,
+						"canvas_top": 347,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celestic_4",
+						"canvas_left": 167,
+						"canvas_top": 347,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celestic_5",
+						"canvas_left": 502,
+						"canvas_top": 342,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celestic_5",
+						"canvas_left": 449,
+						"canvas_top": 342,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celestic_6",
+						"canvas_left": 653,
+						"canvas_top": 92,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celestic_6",
+						"canvas_left": 600,
+						"canvas_top": 92,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celestic_7",
+						"canvas_left": 748,
+						"canvas_top": 144,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celestic_7",
+						"canvas_left": 695,
+						"canvas_top": 144,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_celestic_8",
+						"canvas_left": 838,
+						"canvas_top": 88,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_celestic_8",
+						"canvas_left": 785,
+						"canvas_top": 88,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "celestic",
+						"canvas_left": 124,
+						"canvas_top": 0,
+						"width": 752,
+						"height": 468,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

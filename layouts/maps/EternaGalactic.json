@@ -1,0 +1,201 @@
+{
+	"eterna_galactic": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_eterna_galactic_0",
+						"canvas_left": 143,
+						"canvas_top": 179,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_galactic_0",
+						"canvas_left": 90,
+						"canvas_top": 179,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_galactic_1",
+						"canvas_left": 285,
+						"canvas_top": 363,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_galactic_1",
+						"canvas_left": 232,
+						"canvas_top": 363,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_galactic_2",
+						"canvas_left": 321,
+						"canvas_top": 220,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_galactic_2",
+						"canvas_left": 268,
+						"canvas_top": 220,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_galactic_3",
+						"canvas_left": 428,
+						"canvas_top": 263,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_galactic_3",
+						"canvas_left": 375,
+						"canvas_top": 263,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_galactic_4",
+						"canvas_left": 247,
+						"canvas_top": 43,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_galactic_4",
+						"canvas_left": 194,
+						"canvas_top": 43,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_galactic_5",
+						"canvas_left": 320,
+						"canvas_top": 2,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_galactic_5",
+						"canvas_left": 267,
+						"canvas_top": 2,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_galactic_6",
+						"canvas_left": 420,
+						"canvas_top": 41,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_galactic_6",
+						"canvas_left": 367,
+						"canvas_top": 41,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_galactic_7",
+						"canvas_left": 529,
+						"canvas_top": 265,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_galactic_7",
+						"canvas_left": 476,
+						"canvas_top": 265,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_galactic_8",
+						"canvas_left": 692,
+						"canvas_top": 220,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_galactic_8",
+						"canvas_left": 639,
+						"canvas_top": 220,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_galactic_9",
+						"canvas_left": 805,
+						"canvas_top": 262,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_galactic_9",
+						"canvas_left": 752,
+						"canvas_top": 262,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "eterna_galactic",
+						"canvas_left": 130,
+						"canvas_top": 0,
+						"width": 740,
+						"height": 389,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

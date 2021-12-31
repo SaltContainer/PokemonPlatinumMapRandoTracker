@@ -1,0 +1,345 @@
+{
+	"hearthome": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_hearthome_0",
+						"canvas_left": 49,
+						"canvas_top": 630,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_0",
+						"canvas_left": -4,
+						"canvas_top": 630,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_1",
+						"canvas_left": 155,
+						"canvas_top": 690,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_1",
+						"canvas_left": 102,
+						"canvas_top": 690,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_2",
+						"canvas_left": 922,
+						"canvas_top": 626,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_2",
+						"canvas_left": 869,
+						"canvas_top": 626,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_3",
+						"canvas_left": 182,
+						"canvas_top": 406,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_3",
+						"canvas_left": 129,
+						"canvas_top": 406,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_4",
+						"canvas_left": 382,
+						"canvas_top": 406,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_4",
+						"canvas_left": 329,
+						"canvas_top": 406,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_5",
+						"canvas_left": 464,
+						"canvas_top": 437,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_5",
+						"canvas_left": 411,
+						"canvas_top": 437,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_6",
+						"canvas_left": 638,
+						"canvas_top": 410,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_6",
+						"canvas_left": 585,
+						"canvas_top": 410,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_7",
+						"canvas_left": 729,
+						"canvas_top": 438,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_7",
+						"canvas_left": 676,
+						"canvas_top": 438,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_8",
+						"canvas_left": 806,
+						"canvas_top": 257,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_8",
+						"canvas_left": 753,
+						"canvas_top": 257,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_9",
+						"canvas_left": 600,
+						"canvas_top": 252,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_9",
+						"canvas_left": 547,
+						"canvas_top": 252,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_10",
+						"canvas_left": 257,
+						"canvas_top": 238,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_10",
+						"canvas_left": 204,
+						"canvas_top": 238,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_11",
+						"canvas_left": 345,
+						"canvas_top": 277,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_11",
+						"canvas_left": 292,
+						"canvas_top": 277,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_12",
+						"canvas_left": 483,
+						"canvas_top": 183,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_12",
+						"canvas_left": 430,
+						"canvas_top": 183,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_13",
+						"canvas_left": 157,
+						"canvas_top": 96,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_13",
+						"canvas_left": 104,
+						"canvas_top": 96,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_14",
+						"canvas_left": 832,
+						"canvas_top": 97,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_14",
+						"canvas_left": 779,
+						"canvas_top": 97,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_15",
+						"canvas_left": 391,
+						"canvas_top": 88,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_15",
+						"canvas_left": 338,
+						"canvas_top": 88,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_16",
+						"canvas_left": 483,
+						"canvas_top": 143,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_16",
+						"canvas_left": 430,
+						"canvas_top": 143,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_hearthome_17",
+						"canvas_left": 574,
+						"canvas_top": 88,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_hearthome_17",
+						"canvas_left": 521,
+						"canvas_top": 88,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "hearthome",
+						"canvas_left": 0,
+						"canvas_top": 0,
+						"width": 1000,
+						"height": 788,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

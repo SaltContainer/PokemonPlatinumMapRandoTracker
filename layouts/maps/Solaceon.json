@@ -1,0 +1,219 @@
+{
+	"solaceon": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_solaceon_0",
+						"canvas_left": 1,
+						"canvas_top": 335,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_0",
+						"canvas_left": -52,
+						"canvas_top": 335,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_1",
+						"canvas_left": 95,
+						"canvas_top": 389,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_1",
+						"canvas_left": 42,
+						"canvas_top": 389,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_2",
+						"canvas_left": 189,
+						"canvas_top": 337,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_2",
+						"canvas_left": 136,
+						"canvas_top": 337,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_3",
+						"canvas_left": 160,
+						"canvas_top": 39,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_3",
+						"canvas_left": 107,
+						"canvas_top": 39,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_4",
+						"canvas_left": 361,
+						"canvas_top": 48,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_4",
+						"canvas_left": 308,
+						"canvas_top": 48,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_5",
+						"canvas_left": 369,
+						"canvas_top": 163,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_5",
+						"canvas_left": 316,
+						"canvas_top": 163,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_6",
+						"canvas_left": 455,
+						"canvas_top": 181,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_6",
+						"canvas_left": 402,
+						"canvas_top": 181,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_7",
+						"canvas_left": 454,
+						"canvas_top": 282,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_7",
+						"canvas_left": 401,
+						"canvas_top": 282,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_8",
+						"canvas_left": 616,
+						"canvas_top": 170,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_8",
+						"canvas_left": 563,
+						"canvas_top": 170,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_9",
+						"canvas_left": 581,
+						"canvas_top": 68,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_9",
+						"canvas_left": 528,
+						"canvas_top": 68,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_10",
+						"canvas_left": 864,
+						"canvas_top": 186,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_10",
+						"canvas_left": 811,
+						"canvas_top": 186,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "solaceon",
+						"canvas_left": 0,
+						"canvas_top": 0,
+						"width": 1000,
+						"height": 412,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

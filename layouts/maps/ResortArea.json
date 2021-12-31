@@ -1,0 +1,111 @@
+{
+	"resort_area": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_resort_area_0",
+						"canvas_left": 267,
+						"canvas_top": 303,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_resort_area_0",
+						"canvas_left": 214,
+						"canvas_top": 303,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_resort_area_1",
+						"canvas_left": 400,
+						"canvas_top": 93,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_resort_area_1",
+						"canvas_left": 347,
+						"canvas_top": 93,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_resort_area_2",
+						"canvas_left": 535,
+						"canvas_top": 377,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_resort_area_2",
+						"canvas_left": 482,
+						"canvas_top": 377,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_resort_area_3",
+						"canvas_left": 625,
+						"canvas_top": 431,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_resort_area_3",
+						"canvas_left": 572,
+						"canvas_top": 431,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_resort_area_4",
+						"canvas_left": 712,
+						"canvas_top": 380,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_resort_area_4",
+						"canvas_left": 659,
+						"canvas_top": 380,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "resort_area",
+						"canvas_left": 244,
+						"canvas_top": 0,
+						"width": 512,
+						"height": 456,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

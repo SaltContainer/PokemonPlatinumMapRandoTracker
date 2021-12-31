@@ -1,0 +1,435 @@
+{
+	"solaceon_ruins": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_0",
+						"canvas_left": 243,
+						"canvas_top": 31,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_0",
+						"canvas_left": 190,
+						"canvas_top": 31,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_1",
+						"canvas_left": 323,
+						"canvas_top": 73,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_1",
+						"canvas_left": 270,
+						"canvas_top": 73,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_2",
+						"canvas_left": 324,
+						"canvas_top": 118,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_2",
+						"canvas_left": 271,
+						"canvas_top": 118,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_3",
+						"canvas_left": 283,
+						"canvas_top": 144,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_3",
+						"canvas_left": 230,
+						"canvas_top": 144,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_4",
+						"canvas_left": 443,
+						"canvas_top": 16,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_4",
+						"canvas_left": 390,
+						"canvas_top": 16,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_5",
+						"canvas_left": 526,
+						"canvas_top": 61,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_5",
+						"canvas_left": 473,
+						"canvas_top": 61,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_6",
+						"canvas_left": 443,
+						"canvas_top": 114,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_6",
+						"canvas_left": 390,
+						"canvas_top": 114,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_7",
+						"canvas_left": 529,
+						"canvas_top": 159,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_7",
+						"canvas_left": 476,
+						"canvas_top": 159,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_8",
+						"canvas_left": 647,
+						"canvas_top": 26,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_8",
+						"canvas_left": 594,
+						"canvas_top": 26,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_9",
+						"canvas_left": 725,
+						"canvas_top": 70,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_9",
+						"canvas_left": 672,
+						"canvas_top": 70,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_10",
+						"canvas_left": 642,
+						"canvas_top": 117,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_10",
+						"canvas_left": 589,
+						"canvas_top": 117,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_11",
+						"canvas_left": 727,
+						"canvas_top": 152,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_11",
+						"canvas_left": 674,
+						"canvas_top": 152,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_12",
+						"canvas_left": 242,
+						"canvas_top": 226,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_12",
+						"canvas_left": 189,
+						"canvas_top": 226,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_13",
+						"canvas_left": 324,
+						"canvas_top": 269,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_13",
+						"canvas_left": 271,
+						"canvas_top": 269,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_14",
+						"canvas_left": 242,
+						"canvas_top": 315,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_14",
+						"canvas_left": 189,
+						"canvas_top": 315,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_15",
+						"canvas_left": 323,
+						"canvas_top": 348,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_15",
+						"canvas_left": 270,
+						"canvas_top": 348,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_16",
+						"canvas_left": 443,
+						"canvas_top": 227,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_16",
+						"canvas_left": 390,
+						"canvas_top": 227,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_17",
+						"canvas_left": 441,
+						"canvas_top": 302,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_17",
+						"canvas_left": 388,
+						"canvas_top": 302,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_18",
+						"canvas_left": 528,
+						"canvas_top": 354,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_18",
+						"canvas_left": 475,
+						"canvas_top": 354,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_19",
+						"canvas_left": 613,
+						"canvas_top": 213,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_19",
+						"canvas_left": 560,
+						"canvas_top": 213,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_20",
+						"canvas_left": 726,
+						"canvas_top": 261,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_20",
+						"canvas_left": 673,
+						"canvas_top": 261,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_21",
+						"canvas_left": 609,
+						"canvas_top": 299,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_21",
+						"canvas_left": 556,
+						"canvas_top": 299,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_solaceon_ruins_22",
+						"canvas_left": 728,
+						"canvas_top": 354,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_solaceon_ruins_22",
+						"canvas_left": 675,
+						"canvas_top": 354,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "solaceon_ruins",
+						"canvas_left": 208,
+						"canvas_top": 0,
+						"width": 584,
+						"height": 378,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

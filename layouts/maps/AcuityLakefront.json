@@ -1,0 +1,39 @@
+{
+	"acuity_lakefront": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_acuity_lakefront_0",
+						"canvas_left": 442,
+						"canvas_top": 92,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_acuity_lakefront_0",
+						"canvas_left": 389,
+						"canvas_top": 92,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "acuity_lakefront",
+						"canvas_left": 377,
+						"canvas_top": 0,
+						"width": 245,
+						"height": 193,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

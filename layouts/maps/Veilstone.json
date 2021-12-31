@@ -1,0 +1,345 @@
+{
+	"veilstone": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_veilstone_0",
+						"canvas_left": 49,
+						"canvas_top": 253,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_0",
+						"canvas_left": -4,
+						"canvas_top": 253,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_1",
+						"canvas_left": 185,
+						"canvas_top": 393,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_1",
+						"canvas_left": 132,
+						"canvas_top": 393,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_2",
+						"canvas_left": 286,
+						"canvas_top": 526,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_2",
+						"canvas_left": 233,
+						"canvas_top": 526,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_3",
+						"canvas_left": 382,
+						"canvas_top": 548,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_3",
+						"canvas_left": 329,
+						"canvas_top": 548,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_4",
+						"canvas_left": 535,
+						"canvas_top": 528,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_4",
+						"canvas_left": 482,
+						"canvas_top": 528,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_5",
+						"canvas_left": 702,
+						"canvas_top": 544,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_5",
+						"canvas_left": 649,
+						"canvas_top": 544,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_6",
+						"canvas_left": 735,
+						"canvas_top": 742,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_6",
+						"canvas_left": 682,
+						"canvas_top": 742,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_7",
+						"canvas_left": 713,
+						"canvas_top": 393,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_7",
+						"canvas_left": 660,
+						"canvas_top": 393,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_8",
+						"canvas_left": 622,
+						"canvas_top": 283,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_8",
+						"canvas_left": 569,
+						"canvas_top": 283,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_9",
+						"canvas_left": 721,
+						"canvas_top": 277,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_9",
+						"canvas_left": 668,
+						"canvas_top": 277,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_10",
+						"canvas_left": 451,
+						"canvas_top": 297,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_10",
+						"canvas_left": 398,
+						"canvas_top": 297,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_11",
+						"canvas_left": 459,
+						"canvas_top": 138,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_11",
+						"canvas_left": 406,
+						"canvas_top": 138,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_12",
+						"canvas_left": 660,
+						"canvas_top": 135,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_12",
+						"canvas_left": 607,
+						"canvas_top": 135,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_13",
+						"canvas_left": 712,
+						"canvas_top": 89,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_13",
+						"canvas_left": 659,
+						"canvas_top": 89,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_14",
+						"canvas_left": 775,
+						"canvas_top": 138,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_14",
+						"canvas_left": 722,
+						"canvas_top": 138,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_15",
+						"canvas_left": 48,
+						"canvas_top": 91,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_15",
+						"canvas_left": -5,
+						"canvas_top": 91,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_16",
+						"canvas_left": 144,
+						"canvas_top": 143,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_16",
+						"canvas_left": 91,
+						"canvas_top": 143,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_veilstone_17",
+						"canvas_left": 238,
+						"canvas_top": 87,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_veilstone_17",
+						"canvas_left": 185,
+						"canvas_top": 87,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "veilstone",
+						"canvas_left": 0,
+						"canvas_top": 0,
+						"width": 1000,
+						"height": 788,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

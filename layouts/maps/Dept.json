@@ -1,0 +1,219 @@
+{
+	"dept": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_dept_0",
+						"canvas_left": 294,
+						"canvas_top": 428,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_0",
+						"canvas_left": 241,
+						"canvas_top": 428,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_1",
+						"canvas_left": 279,
+						"canvas_top": 288,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_1",
+						"canvas_left": 226,
+						"canvas_top": 288,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_2",
+						"canvas_left": 359,
+						"canvas_top": 246,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_2",
+						"canvas_left": 306,
+						"canvas_top": 246,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_3",
+						"canvas_left": 326,
+						"canvas_top": 324,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_3",
+						"canvas_left": 273,
+						"canvas_top": 324,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_4",
+						"canvas_left": 283,
+						"canvas_top": 105,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_4",
+						"canvas_left": 230,
+						"canvas_top": 105,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_5",
+						"canvas_left": 354,
+						"canvas_top": 61,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_5",
+						"canvas_left": 301,
+						"canvas_top": 61,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_6",
+						"canvas_left": 622,
+						"canvas_top": 106,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_6",
+						"canvas_left": 569,
+						"canvas_top": 106,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_7",
+						"canvas_left": 626,
+						"canvas_top": 290,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_7",
+						"canvas_left": 573,
+						"canvas_top": 290,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_8",
+						"canvas_left": 704,
+						"canvas_top": 245,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_8",
+						"canvas_left": 651,
+						"canvas_top": 245,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_9",
+						"canvas_left": 628,
+						"canvas_top": 473,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_9",
+						"canvas_left": 575,
+						"canvas_top": 473,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_10",
+						"canvas_left": 705,
+						"canvas_top": 428,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_10",
+						"canvas_left": 652,
+						"canvas_top": 428,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "dept",
+						"canvas_left": 140,
+						"canvas_top": 0,
+						"width": 720,
+						"height": 560,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

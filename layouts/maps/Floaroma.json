@@ -1,0 +1,183 @@
+{
+	"floaroma": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_floaroma_0",
+						"canvas_left": 197,
+						"canvas_top": 300,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_floaroma_0",
+						"canvas_left": 144,
+						"canvas_top": 300,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_floaroma_1",
+						"canvas_left": 289,
+						"canvas_top": 352,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_floaroma_1",
+						"canvas_left": 236,
+						"canvas_top": 352,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_floaroma_2",
+						"canvas_left": 380,
+						"canvas_top": 300,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_floaroma_2",
+						"canvas_left": 327,
+						"canvas_top": 300,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_floaroma_3",
+						"canvas_left": 321,
+						"canvas_top": 39,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_floaroma_3",
+						"canvas_left": 268,
+						"canvas_top": 39,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_floaroma_4",
+						"canvas_left": 464,
+						"canvas_top": 175,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_floaroma_4",
+						"canvas_left": 411,
+						"canvas_top": 175,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_floaroma_5",
+						"canvas_left": 600,
+						"canvas_top": 118,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_floaroma_5",
+						"canvas_left": 547,
+						"canvas_top": 118,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_floaroma_6",
+						"canvas_left": 676,
+						"canvas_top": 217,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_floaroma_6",
+						"canvas_left": 623,
+						"canvas_top": 217,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_floaroma_7",
+						"canvas_left": 539,
+						"canvas_top": 320,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_floaroma_7",
+						"canvas_left": 486,
+						"canvas_top": 320,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_floaroma_8",
+						"canvas_left": 678,
+						"canvas_top": 327,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_floaroma_8",
+						"canvas_left": 625,
+						"canvas_top": 327,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "floaroma",
+						"canvas_left": 194,
+						"canvas_top": 0,
+						"width": 611,
+						"height": 440,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

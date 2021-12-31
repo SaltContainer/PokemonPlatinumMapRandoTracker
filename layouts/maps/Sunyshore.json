@@ -1,0 +1,255 @@
+{
+	"sunyshore": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_sunyshore_0",
+						"canvas_left": 199,
+						"canvas_top": 73,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sunyshore_0",
+						"canvas_left": 146,
+						"canvas_top": 73,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sunyshore_1",
+						"canvas_left": 9,
+						"canvas_top": 667,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sunyshore_1",
+						"canvas_left": -44,
+						"canvas_top": 667,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sunyshore_2",
+						"canvas_left": 206,
+						"canvas_top": 383,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sunyshore_2",
+						"canvas_left": 153,
+						"canvas_top": 383,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sunyshore_3",
+						"canvas_left": 275,
+						"canvas_top": 280,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sunyshore_3",
+						"canvas_left": 222,
+						"canvas_top": 280,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sunyshore_4",
+						"canvas_left": 340,
+						"canvas_top": 382,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sunyshore_4",
+						"canvas_left": 287,
+						"canvas_top": 382,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sunyshore_5",
+						"canvas_left": 438,
+						"canvas_top": 577,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sunyshore_5",
+						"canvas_left": 385,
+						"canvas_top": 577,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sunyshore_6",
+						"canvas_left": 685,
+						"canvas_top": 29,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sunyshore_6",
+						"canvas_left": 632,
+						"canvas_top": 29,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sunyshore_7",
+						"canvas_left": 819,
+						"canvas_top": 32,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sunyshore_7",
+						"canvas_left": 766,
+						"canvas_top": 32,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sunyshore_8",
+						"canvas_left": 777,
+						"canvas_top": 251,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sunyshore_8",
+						"canvas_left": 724,
+						"canvas_top": 251,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sunyshore_9",
+						"canvas_left": 867,
+						"canvas_top": 300,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sunyshore_9",
+						"canvas_left": 814,
+						"canvas_top": 300,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sunyshore_10",
+						"canvas_left": 966,
+						"canvas_top": 242,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sunyshore_10",
+						"canvas_left": 913,
+						"canvas_top": 242,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sunyshore_11",
+						"canvas_left": 898,
+						"canvas_top": 383,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sunyshore_11",
+						"canvas_left": 845,
+						"canvas_top": 383,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_sunyshore_12",
+						"canvas_left": 853,
+						"canvas_top": 613,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_sunyshore_12",
+						"canvas_left": 800,
+						"canvas_top": 613,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "sunyshore",
+						"canvas_left": 0,
+						"canvas_top": 0,
+						"width": 1000,
+						"height": 790,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

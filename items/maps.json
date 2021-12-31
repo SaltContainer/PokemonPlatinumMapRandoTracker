@@ -175,6 +175,27 @@
         "img": "images/maps/solaceon_ruins.png"
     },
     {
+        "name": "Sandgem",
+        "codes": "sandgem",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/sandgem.png"
+    },
+    {
+        "name": "Snowpoint",
+        "codes": "snowpoint",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/snowpoint.png"
+    },
+    {
+        "name": "Solaceon",
+        "codes": "solaceon",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/solaceon.png"
+    },
+    {
         "name": "Spring Path",
         "codes": "spring_path",
 		"type": "static",
@@ -197,10 +218,10 @@
     },
     {
         "name": "Survival",
-        "codes": "survival",
+        "codes": "survival_area",
 		"type": "static",
         "initial_active_state": true,
-        "img": "images/maps/survival.png"
+        "img": "images/maps/survival_area.png"
     },
     {
         "name": "Valor",

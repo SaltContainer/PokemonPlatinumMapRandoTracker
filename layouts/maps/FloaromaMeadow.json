@@ -1,0 +1,75 @@
+{
+	"floaroma_meadow": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_floaroma_meadow_0",
+						"canvas_left": 363,
+						"canvas_top": 232,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_floaroma_meadow_0",
+						"canvas_left": 310,
+						"canvas_top": 232,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_floaroma_meadow_1",
+						"canvas_left": 571,
+						"canvas_top": 215,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_floaroma_meadow_1",
+						"canvas_left": 518,
+						"canvas_top": 215,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_floaroma_meadow_2",
+						"canvas_left": 571,
+						"canvas_top": 26,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_floaroma_meadow_2",
+						"canvas_left": 518,
+						"canvas_top": 26,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "floaroma_meadow",
+						"canvas_left": 298,
+						"canvas_top": 0,
+						"width": 404,
+						"height": 295,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

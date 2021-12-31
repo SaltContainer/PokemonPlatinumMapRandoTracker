@@ -1,0 +1,273 @@
+{
+	"eterna": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_eterna_0",
+						"canvas_left": 318,
+						"canvas_top": 21,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_0",
+						"canvas_left": 265,
+						"canvas_top": 21,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_1",
+						"canvas_left": 505,
+						"canvas_top": 54,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_1",
+						"canvas_left": 452,
+						"canvas_top": 54,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_2",
+						"canvas_left": 321,
+						"canvas_top": 159,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_2",
+						"canvas_left": 268,
+						"canvas_top": 159,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_3",
+						"canvas_left": 412,
+						"canvas_top": 180,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_3",
+						"canvas_left": 359,
+						"canvas_top": 180,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_4",
+						"canvas_left": 401,
+						"canvas_top": 273,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_4",
+						"canvas_left": 348,
+						"canvas_top": 273,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_5",
+						"canvas_left": 678,
+						"canvas_top": 249,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_5",
+						"canvas_left": 625,
+						"canvas_top": 249,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_6",
+						"canvas_left": 484,
+						"canvas_top": 371,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_6",
+						"canvas_left": 431,
+						"canvas_top": 371,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_7",
+						"canvas_left": 391,
+						"canvas_top": 399,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_7",
+						"canvas_left": 338,
+						"canvas_top": 399,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_8",
+						"canvas_left": 217,
+						"canvas_top": 560,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_8",
+						"canvas_left": 164,
+						"canvas_top": 560,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_9",
+						"canvas_left": 431,
+						"canvas_top": 551,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_9",
+						"canvas_left": 378,
+						"canvas_top": 551,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_10",
+						"canvas_left": 588,
+						"canvas_top": 490,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_10",
+						"canvas_left": 535,
+						"canvas_top": 490,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_11",
+						"canvas_left": 685,
+						"canvas_top": 546,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_11",
+						"canvas_left": 632,
+						"canvas_top": 546,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_12",
+						"canvas_left": 766,
+						"canvas_top": 495,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_12",
+						"canvas_left": 713,
+						"canvas_top": 495,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_eterna_13",
+						"canvas_left": 313,
+						"canvas_top": 676,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_eterna_13",
+						"canvas_left": 260,
+						"canvas_top": 676,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "eterna",
+						"canvas_left": 186,
+						"canvas_top": 0,
+						"width": 627,
+						"height": 712,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

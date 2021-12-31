@@ -1,0 +1,291 @@
+{
+	"oreburgh": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_oreburgh_0",
+						"canvas_left": 7,
+						"canvas_top": 78,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_0",
+						"canvas_left": -46,
+						"canvas_top": 78,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_oreburgh_1",
+						"canvas_left": 229,
+						"canvas_top": 60,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_1",
+						"canvas_left": 176,
+						"canvas_top": 60,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_oreburgh_2",
+						"canvas_left": 348,
+						"canvas_top": 35,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_2",
+						"canvas_left": 295,
+						"canvas_top": 35,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_oreburgh_3",
+						"canvas_left": 464,
+						"canvas_top": 61,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_3",
+						"canvas_left": 411,
+						"canvas_top": 61,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_oreburgh_4",
+						"canvas_left": 587,
+						"canvas_top": 134,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_4",
+						"canvas_left": 534,
+						"canvas_top": 134,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_oreburgh_5",
+						"canvas_left": 265,
+						"canvas_top": 179,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_5",
+						"canvas_left": 212,
+						"canvas_top": 179,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_oreburgh_6",
+						"canvas_left": 410,
+						"canvas_top": 174,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_6",
+						"canvas_left": 357,
+						"canvas_top": 174,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_oreburgh_7",
+						"canvas_left": 273,
+						"canvas_top": 452,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_7",
+						"canvas_left": 220,
+						"canvas_top": 452,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_oreburgh_8",
+						"canvas_left": 363,
+						"canvas_top": 503,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_8",
+						"canvas_left": 310,
+						"canvas_top": 503,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_oreburgh_9",
+						"canvas_left": 456,
+						"canvas_top": 452,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_9",
+						"canvas_left": 403,
+						"canvas_top": 452,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_oreburgh_10",
+						"canvas_left": 820,
+						"canvas_top": 393,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_10",
+						"canvas_left": 767,
+						"canvas_top": 393,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_oreburgh_11",
+						"canvas_left": 730,
+						"canvas_top": 694,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_11",
+						"canvas_left": 677,
+						"canvas_top": 694,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_oreburgh_12",
+						"canvas_left": 884,
+						"canvas_top": 270,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_12",
+						"canvas_left": 831,
+						"canvas_top": 270,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_oreburgh_13",
+						"canvas_left": 738,
+						"canvas_top": 175,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_13",
+						"canvas_left": 685,
+						"canvas_top": 175,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_oreburgh_14",
+						"canvas_left": 780,
+						"canvas_top": 60,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_14",
+						"canvas_left": 727,
+						"canvas_top": 60,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "oreburgh",
+						"canvas_left": 0,
+						"canvas_top": 0,
+						"width": 1000,
+						"height": 740,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

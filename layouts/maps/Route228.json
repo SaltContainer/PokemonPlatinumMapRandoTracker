@@ -61,6 +61,24 @@
 					},
 					{
 						"type": "item",
+						"item": "slot_route_228_3",
+						"canvas_left": 588,
+						"canvas_top": 189,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_route_228_3",
+						"canvas_left": 535,
+						"canvas_top": 189,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
 						"item": "route_228",
 						"canvas_left": 315,
 						"canvas_top": 0,

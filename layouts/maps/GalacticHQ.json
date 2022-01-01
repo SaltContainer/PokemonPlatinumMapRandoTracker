@@ -367,11 +367,83 @@
 					},
 					{
 						"type": "item",
+						"item": "slot_galactic_hq_20",
+						"canvas_left": 894,
+						"canvas_top": 567,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_galactic_hq_20",
+						"canvas_left": 841,
+						"canvas_top": 567,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_galactic_hq_21",
+						"canvas_left": 679,
+						"canvas_top": 639,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_galactic_hq_21",
+						"canvas_left": 626,
+						"canvas_top": 639,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_galactic_hq_22",
+						"canvas_left": 644,
+						"canvas_top": 671,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_galactic_hq_22",
+						"canvas_left": 591,
+						"canvas_top": 671,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_galactic_hq_23",
+						"canvas_left": 613,
+						"canvas_top": 733,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_galactic_hq_23",
+						"canvas_left": 560,
+						"canvas_top": 733,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
 						"item": "galactic_hq",
 						"canvas_left": 0,
 						"canvas_top": 0,
 						"width": 1000,
-						"height": 614,
+						"height": 766,
 						"canvas_depth": 0
 					}
 				]

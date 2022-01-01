@@ -153,6 +153,13 @@
                     }
                 },
                 {
+                    "title": "Oreburgh Gate",
+                    "content": {
+                        "type": "layout",
+                        "key": "oreburgh_gate"
+                    }
+                },
+                {
                     "title": "Pastoria",
                     "content": {
                         "type": "layout",

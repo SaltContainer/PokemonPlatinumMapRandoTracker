@@ -1,0 +1,75 @@
+{
+	"oreburgh_gate": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_oreburgh_gate_0",
+						"canvas_left": 327,
+						"canvas_top": 212,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_gate_0",
+						"canvas_left": 274,
+						"canvas_top": 212,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_oreburgh_gate_1",
+						"canvas_left": 556,
+						"canvas_top": 19,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_gate_1",
+						"canvas_left": 503,
+						"canvas_top": 19,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_oreburgh_gate_2",
+						"canvas_left": 658,
+						"canvas_top": 212,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_oreburgh_gate_2",
+						"canvas_left": 605,
+						"canvas_top": 212,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "oreburgh_gate",
+						"canvas_left": 274,
+						"canvas_top": 0,
+						"width": 451,
+						"height": 331,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

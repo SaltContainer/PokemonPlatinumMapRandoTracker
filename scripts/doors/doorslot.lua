@@ -110,7 +110,8 @@ DoorSlot.Icons = {
     [107] = "locations/route_226",
     [108] = "locations/route_227",
     [109] = "locations/route_228",
-    [110] = "locations/old_chateau"
+    [110] = "locations/old_chateau",
+    [111] = "locations/oreburgh_gate"
 }
 DoorSlot.Selection = "slot_acuity_lakefront_0"
 

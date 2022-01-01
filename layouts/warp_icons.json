@@ -65,43 +65,43 @@
                             "doorslot_coronet_peak", "doorslot_old_chateau", "doorslot_oreburgh"
                         ],
                         [
-                            "doorslot_pastoria", "doorslot_league", "doorslot_poketch"
+                            "doorslot_oreburgh_gate", "doorslot_pastoria", "doorslot_league"
                         ],
                         [
-                            "doorslot_resort_area", "doorslot_sandgem", "doorslot_snowpoint"
+                            "doorslot_poketch", "doorslot_resort_area", "doorslot_sandgem"
                         ],
                         [
-                            "doorslot_solaceon_ruins", "doorslot_solaceon", "doorslot_spring_path"
+                            "doorslot_snowpoint", "doorslot_solaceon_ruins", "doorslot_solaceon"
                         ],
                         [
-                            "doorslot_stark", "doorslot_sunyshore", "doorslot_survival_area"
+                            "doorslot_spring_path", "doorslot_stark", "doorslot_sunyshore"
                         ],
                         [
-                            "doorslot_valley_windworks", "doorslot_valor_lakefront", "doorslot_veilstone"
+                            "doorslot_survival_area", "doorslot_valley_windworks", "doorslot_valor_lakefront"
                         ],
                         [
-                            "doorslot_verity_lakefront", "doorslot_victory_road", "doorslot_route_203"
+                            "doorslot_veilstone", "doorslot_verity_lakefront", "doorslot_victory_road"
                         ],
                         [
-                            "doorslot_route_204", "doorslot_route_205", "doorslot_route_206"
+                            "doorslot_route_203", "doorslot_route_204", "doorslot_route_205"
                         ],
                         [
-                            "doorslot_route_207", "doorslot_route_208", "doorslot_route_209"
+                            "doorslot_route_206", "doorslot_route_207", "doorslot_route_208"
                         ],
                         [
-                            "doorslot_route_210", "doorslot_route_211", "doorslot_route_212"
+                            "doorslot_route_209", "doorslot_route_210", "doorslot_route_211"
                         ],
                         [
-                            "doorslot_route_214", "doorslot_route_215", "doorslot_route_216"
+                            "doorslot_route_212", "doorslot_route_214", "doorslot_route_215"
                         ],
                         [
-                            "doorslot_route_217", "doorslot_route_221", "doorslot_route_222"
+                            "doorslot_route_216", "doorslot_route_217", "doorslot_route_221"
                         ],
                         [
-                            "doorslot_route_225", "doorslot_route_226", "doorslot_route_227"
+                            "doorslot_route_222", "doorslot_route_225", "doorslot_route_226"
                         ],
                         [
-                            "doorslot_route_228"
+                            "doorslot_route_227", "doorslot_route_228"
                         ]
                     ]
                 }

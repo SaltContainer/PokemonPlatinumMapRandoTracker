@@ -154,6 +154,13 @@
         "img": "images/maps/oreburgh.png"
     },
     {
+        "name": "Oreburgh Gate",
+        "codes": "oreburgh_gate",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/oreburgh_gate.png"
+    },
+    {
         "name": "Pastoria",
         "codes": "pastoria",
 		"type": "static",

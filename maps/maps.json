@@ -132,6 +132,12 @@
         "img": "images/maps/oreburgh.png"
     },
     {
+        "name": "oreburgh_gate",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/oreburgh_gate.png"
+    },
+    {
         "name": "pastoria",
 		"location_size": 16,
 		"location_border_thickness": 1,

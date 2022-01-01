@@ -139,6 +139,13 @@
                     }
                 },
                 {
+                    "title": "Old Chateau",
+                    "content": {
+                        "type": "layout",
+                        "key": "old_chateau"
+                    }
+                },
+                {
                     "title": "Oreburgh",
                     "content": {
                         "type": "layout",

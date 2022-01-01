@@ -1,0 +1,219 @@
+{
+	"old_chateau": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_old_chateau_0",
+						"canvas_left": 246,
+						"canvas_top": 0,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_old_chateau_0",
+						"canvas_left": 193,
+						"canvas_top": 0,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_old_chateau_1",
+						"canvas_left": 355,
+						"canvas_top": 32,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_old_chateau_1",
+						"canvas_left": 302,
+						"canvas_top": 32,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_old_chateau_2",
+						"canvas_left": 483,
+						"canvas_top": 0,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_old_chateau_2",
+						"canvas_left": 430,
+						"canvas_top": 0,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_old_chateau_3",
+						"canvas_left": 611,
+						"canvas_top": 32,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_old_chateau_3",
+						"canvas_left": 558,
+						"canvas_top": 32,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_old_chateau_5",
+						"canvas_left": 723,
+						"canvas_top": 0,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_old_chateau_5",
+						"canvas_left": 670,
+						"canvas_top": 0,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_old_chateau_6",
+						"canvas_left": 483,
+						"canvas_top": 60,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_old_chateau_6",
+						"canvas_left": 430,
+						"canvas_top": 60,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_old_chateau_7",
+						"canvas_left": 483,
+						"canvas_top": 108,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_old_chateau_7",
+						"canvas_left": 430,
+						"canvas_top": 108,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_old_chateau_8",
+						"canvas_left": 483,
+						"canvas_top": 182,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_old_chateau_8",
+						"canvas_left": 430,
+						"canvas_top": 182,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_old_chateau_9",
+						"canvas_left": 483,
+						"canvas_top": 320,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_old_chateau_9",
+						"canvas_left": 430,
+						"canvas_top": 320,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_old_chateau_10",
+						"canvas_left": 350,
+						"canvas_top": 164,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_old_chateau_10",
+						"canvas_left": 297,
+						"canvas_top": 164,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_old_chateau_11",
+						"canvas_left": 617,
+						"canvas_top": 164,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_old_chateau_11",
+						"canvas_left": 564,
+						"canvas_top": 164,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "old_chateau",
+						"canvas_left": 193,
+						"canvas_top": 0,
+						"width": 614,
+						"height": 352,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}

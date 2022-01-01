@@ -120,6 +120,12 @@
         "img": "images/maps/floaroma_meadow.png"
     },
     {
+        "name": "old_chateau",
+		"location_size": 16,
+		"location_border_thickness": 1,
+        "img": "images/maps/old_chateau.png"
+    },
+    {
         "name": "oreburgh",
 		"location_size": 16,
 		"location_border_thickness": 1,
@@ -262,12 +268,6 @@
 		"location_size": 16,
 		"location_border_thickness": 1,
         "img": "images/maps/route_212.png"
-    },
-    {
-        "name": "route_213",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/route_213.png"
     },
     {
         "name": "route_214",

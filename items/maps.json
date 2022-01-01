@@ -140,6 +140,13 @@
         "img": "images/maps/floaroma_meadow.png"
     },
     {
+        "name": "Old Chateau",
+        "codes": "old_chateau",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/old_chateau.png"
+    },
+    {
         "name": "Oreburgh",
         "codes": "oreburgh",
 		"type": "static",

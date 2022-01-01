@@ -108,7 +108,8 @@ DoorSlotSelection.Types = {
     [106] = "route_225",
     [107] = "route_226",
     [108] = "route_227",
-    [109] = "route_228"
+    [109] = "route_228",
+    [110] = "old_chateau"
 }
 DoorSlotSelection.Selection = 2
 

@@ -6,10 +6,17 @@
             "width": 1000,
             "tabs": [
                 {
-                    "title": "Acuity",
+                    "title": "Acuity Lakefront",
                     "content": {
                         "type": "layout",
                         "key": "acuity_lakefront"
+                    }
+                },
+                {
+                    "title": "Backlot Mansion",
+                    "content": {
+                        "type": "layout",
+                        "key": "mansion"
                     }
                 },
                 {
@@ -27,20 +34,6 @@
                     }
                 },
                 {
-                    "title": "Coronet",
-                    "content": {
-                        "type": "layout",
-                        "key": "coronet"
-                    }
-                },
-                {
-                    "title": "Coronet Peak",
-                    "content": {
-                        "type": "layout",
-                        "key": "coronet_peak"
-                    }
-                },
-                {
                     "title": "Dept. Store",
                     "content": {
                         "type": "layout",
@@ -55,17 +48,31 @@
                     }
                 },
                 {
-                    "title": "Eterna Gala.",
+                    "title": "Eterna Forest",
+                    "content": {
+                        "type": "layout",
+                        "key": "eterna_forest"
+                    }
+                },
+                {
+                    "title": "Eterna Gala. Build.",
                     "content": {
                         "type": "layout",
                         "key": "eterna_galactic"
                     }
                 },
                 {
-                    "title": "Fight",
+                    "title": "Fight Area",
                     "content": {
                         "type": "layout",
                         "key": "fight_area"
+                    }
+                },
+                {
+                    "title": "Floaroma Meadow",
+                    "content": {
+                        "type": "layout",
+                        "key": "floaroma_meadow"
                     }
                 },
                 {
@@ -76,10 +83,10 @@
                     }
                 },
                 {
-                    "title": "Forest",
+                    "title": "Fuego Ironworks",
                     "content": {
                         "type": "layout",
-                        "key": "eterna_forest"
+                        "key": "fuego_ironworks"
                     }
                 },
                 {
@@ -104,13 +111,6 @@
                     }
                 },
                 {
-                    "title": "Ironworks",
-                    "content": {
-                        "type": "layout",
-                        "key": "fuego_ironworks"
-                    }
-                },
-                {
                     "title": "Jubilife",
                     "content": {
                         "type": "layout",
@@ -125,24 +125,17 @@
                     }
                 },
                 {
-                    "title": "League",
+                    "title": "Mt. Coronet",
                     "content": {
                         "type": "layout",
-                        "key": "league"
+                        "key": "coronet"
                     }
                 },
                 {
-                    "title": "Mansion",
+                    "title": "Mt. Coronet Peak",
                     "content": {
                         "type": "layout",
-                        "key": "mansion"
-                    }
-                },
-                {
-                    "title": "Meadow",
-                    "content": {
-                        "type": "layout",
-                        "key": "floaroma_meadow"
+                        "key": "coronet_peak"
                     }
                 },
                 {
@@ -160,6 +153,13 @@
                     }
                 },
                 {
+                    "title": "Pokémon League",
+                    "content": {
+                        "type": "layout",
+                        "key": "league"
+                    }
+                },
+                {
                     "title": "Pokétch",
                     "content": {
                         "type": "layout",
@@ -167,17 +167,10 @@
                     }
                 },
                 {
-                    "title": "Resort",
+                    "title": "Resort Area",
                     "content": {
                         "type": "layout",
                         "key": "resort_area"
-                    }
-                },
-                {
-                    "title": "Ruins",
-                    "content": {
-                        "type": "layout",
-                        "key": "solaceon_ruins"
                     }
                 },
                 {
@@ -195,6 +188,13 @@
                     }
                 },
                 {
+                    "title": "Solaceon Ruins",
+                    "content": {
+                        "type": "layout",
+                        "key": "solaceon_ruins"
+                    }
+                },
+                {
                     "title": "Solaceon",
                     "content": {
                         "type": "layout",
@@ -209,7 +209,7 @@
                     }
                 },
                 {
-                    "title": "Stark",
+                    "title": "Stark Mountain",
                     "content": {
                         "type": "layout",
                         "key": "stark"
@@ -223,14 +223,21 @@
                     }
                 },
                 {
-                    "title": "Survival",
+                    "title": "Survival Area",
                     "content": {
                         "type": "layout",
                         "key": "survival_area"
                     }
                 },
                 {
-                    "title": "Valor",
+                    "title": "Valley Windworks",
+                    "content": {
+                        "type": "layout",
+                        "key": "valley_windworks"
+                    }
+                },
+                {
+                    "title": "Valor Lakefront",
                     "content": {
                         "type": "layout",
                         "key": "valor_lakefront"
@@ -244,7 +251,7 @@
                     }
                 },
                 {
-                    "title": "Verity",
+                    "title": "Verity Lakefront",
                     "content": {
                         "type": "layout",
                         "key": "verity_lakefront"
@@ -255,13 +262,6 @@
                     "content": {
                         "type": "layout",
                         "key": "victory_road"
-                    }
-                },
-                {
-                    "title": "Windworks",
-                    "content": {
-                        "type": "layout",
-                        "key": "valley_windworks"
                     }
                 },
                 {

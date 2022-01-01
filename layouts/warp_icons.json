@@ -44,40 +44,43 @@
                     "item_width": 86,
                     "rows": [
                         [
-                            "doorslot_acuity_lakefront", "doorslot_canalave", "doorslot_celestic"
+                            "doorslot_acuity_lakefront", "doorslot_mansion", "doorslot_canalave"
                         ],
                         [
-                            "doorslot_coronet", "doorslot_coronet_peak", "doorslot_dept"
+                            "doorslot_celestic", "doorslot_dept", "doorslot_eterna"
                         ],
                         [
-                            "doorslot_eterna", "doorslot_eterna_galactic", "doorslot_fight_area"
+                            "doorslot_eterna_forest", "doorslot_eterna_galactic", "doorslot_fight_area"
                         ],
                         [
-                            "doorslot_floaroma", "doorslot_eterna_forest", "doorslot_galactic_hq"
+                            "doorslot_floaroma_meadow", "doorslot_floaroma", "doorslot_fuego_ironworks"
                         ],
                         [
-                            "doorslot_hearthome", "doorslot_iron_island", "doorslot_fuego_ironworks"
+                            "doorslot_galactic_hq", "doorslot_hearthome", "doorslot_iron_island"
                         ],
                         [
-                            "doorslot_jubilife", "doorslot_jubilife_tv", "doorslot_league"
+                            "doorslot_jubilife", "doorslot_jubilife_tv", "doorslot_coronet"
                         ],
                         [
-                            "doorslot_mansion", "doorslot_floaroma_meadow", "doorslot_oreburgh"
+                            "doorslot_coronet_peak", "doorslot_oreburgh", "doorslot_pastoria"
                         ],
                         [
-                            "doorslot_pastoria", "doorslot_poketch", "doorslot_resort_area"
+                            "doorslot_league", "doorslot_poketch", "doorslot_resort_area"
                         ],
                         [
-                            "doorslot_solaceon_ruins", "doorslot_spring_path", "doorslot_stark"
+                            "doorslot_sandgem", "doorslot_snowpoint", "doorslot_solaceon_ruins"
                         ],
                         [
-                            "doorslot_sunyshore", "doorslot_survival_area", "doorslot_valor_lakefront"
+                            "doorslot_solaceon", "doorslot_spring_path", "doorslot_stark"
                         ],
                         [
-                            "doorslot_veilstone", "doorslot_verity_lakefront", "doorslot_victory_road"
+                            "doorslot_sunyshore", "doorslot_survival_area", "doorslot_valley_windworks"
                         ],
                         [
-                            "doorslot_valley_windworks", "doorslot_route_203", "doorslot_route_204"
+                            "doorslot_valor_lakefront", "doorslot_veilstone", "doorslot_verity_lakefront"
+                        ],
+                        [
+                            "doorslot_victory_road", "doorslot_route_203", "doorslot_route_204"
                         ],
                         [
                             "doorslot_route_205", "doorslot_route_206", "doorslot_route_207"

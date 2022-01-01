@@ -151,24 +151,6 @@
 					},
 					{
 						"type": "item",
-						"item": "slot_pastoria_8",
-						"canvas_left": 519,
-						"canvas_top": 109,
-						"width": 32,
-						"height": 32,
-						"canvas_depth": 2
-					},
-					{
-						"type": "item",
-						"item": "hubslot_pastoria_8",
-						"canvas_left": 466,
-						"canvas_top": 109,
-						"width": 138,
-						"height": 32,
-						"canvas_depth": 1
-					},
-					{
-						"type": "item",
 						"item": "slot_pastoria_9",
 						"canvas_left": 947,
 						"canvas_top": 152,

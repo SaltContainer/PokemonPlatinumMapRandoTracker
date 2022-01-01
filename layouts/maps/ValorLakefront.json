@@ -151,6 +151,60 @@
 					},
 					{
 						"type": "item",
+						"item": "slot_route_213_0",
+						"canvas_left": 236,
+						"canvas_top": 86,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_route_213_0",
+						"canvas_left": 183,
+						"canvas_top": 86,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_route_213_1",
+						"canvas_left": 459,
+						"canvas_top": 1,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_route_213_1",
+						"canvas_left": 406,
+						"canvas_top": 1,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_route_213_2",
+						"canvas_left": 428,
+						"canvas_top": 203,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_route_213_2",
+						"canvas_left": 375,
+						"canvas_top": 203,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
 						"item": "valor_lakefront",
 						"canvas_left": 165,
 						"canvas_top": 0,

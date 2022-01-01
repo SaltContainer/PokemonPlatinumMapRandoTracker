@@ -251,7 +251,7 @@
                     }
                 },
                 {
-                    "title": "Valor Lakefront",
+                    "title": "Valor Lakefront + 213",
                     "content": {
                         "type": "layout",
                         "key": "valor_lakefront"
@@ -346,13 +346,6 @@
                     "content": {
                         "type": "layout",
                         "key": "route_212"
-                    }
-                },
-                {
-                    "title": "213",
-                    "content": {
-                        "type": "layout",
-                        "key": "route_213"
                     }
                 },
                 {

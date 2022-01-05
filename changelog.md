@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3
+- Added Saving/Loading support for warps (Previously only worked for the progress section)
+- Removed warp for Villa in Resort Area (No longer randomized as of UWR 1.1.1)
+- Fixed alignment for GTS warps
+
 ## 0.2
 - Added missing labels for Sandgem, Snowpoint, and Solaceon
 - Added missing room in Galactic HQ

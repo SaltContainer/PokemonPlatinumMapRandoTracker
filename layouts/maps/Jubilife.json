@@ -242,7 +242,7 @@
 					{
 						"type": "item",
 						"item": "slot_jubilife_13",
-						"canvas_left": 109,
+						"canvas_left": 212,
 						"canvas_top": 259,
 						"width": 32,
 						"height": 32,
@@ -251,7 +251,7 @@
 					{
 						"type": "item",
 						"item": "hubslot_jubilife_13",
-						"canvas_left": 56,
+						"canvas_left": 159,
 						"canvas_top": 259,
 						"width": 138,
 						"height": 32,
@@ -260,7 +260,7 @@
 					{
 						"type": "item",
 						"item": "slot_jubilife_14",
-						"canvas_left": 145,
+						"canvas_left": 248,
 						"canvas_top": 298,
 						"width": 32,
 						"height": 32,
@@ -269,7 +269,7 @@
 					{
 						"type": "item",
 						"item": "hubslot_jubilife_14",
-						"canvas_left": 92,
+						"canvas_left": 195,
 						"canvas_top": 298,
 						"width": 138,
 						"height": 32,
@@ -278,7 +278,7 @@
 					{
 						"type": "item",
 						"item": "slot_jubilife_15",
-						"canvas_left": 88,
+						"canvas_left": 191,
 						"canvas_top": 350,
 						"width": 32,
 						"height": 32,
@@ -287,7 +287,7 @@
 					{
 						"type": "item",
 						"item": "hubslot_jubilife_15",
-						"canvas_left": 35,
+						"canvas_left": 138,
 						"canvas_top": 350,
 						"width": 138,
 						"height": 32,

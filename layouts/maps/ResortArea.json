@@ -8,8 +8,8 @@
 					{
 						"type": "item",
 						"item": "slot_resort_area_0",
-						"canvas_left": 267,
-						"canvas_top": 303,
+						"canvas_left": 145,
+						"canvas_top": 296,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -17,8 +17,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_resort_area_0",
-						"canvas_left": 214,
-						"canvas_top": 303,
+						"canvas_left": 92,
+						"canvas_top": 296,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -26,8 +26,8 @@
 					{
 						"type": "item",
 						"item": "slot_resort_area_1",
-						"canvas_left": 400,
-						"canvas_top": 93,
+						"canvas_left": 282,
+						"canvas_top": 90,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -35,8 +35,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_resort_area_1",
-						"canvas_left": 347,
-						"canvas_top": 93,
+						"canvas_left": 229,
+						"canvas_top": 90,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -44,8 +44,8 @@
 					{
 						"type": "item",
 						"item": "slot_resort_area_2",
-						"canvas_left": 535,
-						"canvas_top": 88,
+						"canvas_left": 470,
+						"canvas_top": 242,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -53,8 +53,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_resort_area_2",
-						"canvas_left": 482,
-						"canvas_top": 88,
+						"canvas_left": 417,
+						"canvas_top": 242,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -62,8 +62,8 @@
 					{
 						"type": "item",
 						"item": "slot_resort_area_3",
-						"canvas_left": 625,
-						"canvas_top": 142,
+						"canvas_left": 498,
+						"canvas_top": 42,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -71,8 +71,8 @@
 					{
 						"type": "item",
 						"item": "hubslot_resort_area_3",
-						"canvas_left": 572,
-						"canvas_top": 142,
+						"canvas_left": 445,
+						"canvas_top": 42,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -80,8 +80,8 @@
 					{
 						"type": "item",
 						"item": "slot_resort_area_4",
-						"canvas_left": 712,
-						"canvas_top": 91,
+						"canvas_left": 647,
+						"canvas_top": 81,
 						"width": 32,
 						"height": 32,
 						"canvas_depth": 2
@@ -89,8 +89,44 @@
 					{
 						"type": "item",
 						"item": "hubslot_resort_area_4",
-						"canvas_left": 659,
-						"canvas_top": 91,
+						"canvas_left": 594,
+						"canvas_top": 81,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_resort_area_5",
+						"canvas_left": 747,
+						"canvas_top": 156,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_resort_area_5",
+						"canvas_left": 694,
+						"canvas_top": 156,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_resort_area_6",
+						"canvas_left": 834,
+						"canvas_top": 85,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_resort_area_6",
+						"canvas_left": 781,
+						"canvas_top": 85,
 						"width": 138,
 						"height": 32,
 						"canvas_depth": 1
@@ -98,9 +134,9 @@
 					{
 						"type": "item",
 						"item": "resort_area",
-						"canvas_left": 244,
+						"canvas_left": 124,
 						"canvas_top": 0,
-						"width": 512,
+						"width": 752,
 						"height": 456,
 						"canvas_depth": 0
 					}
